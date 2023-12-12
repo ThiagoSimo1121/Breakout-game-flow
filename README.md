@@ -1,2 +1,5 @@
-# Breakout-game-flow
-Método de organização em git flow.
+# Breakout-game
+Equipe:
+Izabella de Lima Catrinck //
+Thiago Pincegher Simoes //
+Arthur Vinicius Menezes Bernardes //
